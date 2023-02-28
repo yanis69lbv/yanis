@@ -1180,7 +1180,7 @@
     content: "";
     position: absolute;
     top: 60px;
-    left: 268px;
+    left: 285px;
     width: 30px;
     height: 30px;
     background-color: #0f33ff;
@@ -1191,7 +1191,7 @@
     content: "";
     position: absolute;
     top: 255px;
-    left: 255px;
+    left: 260px;
     width: 10px;
     height: 10px;
     background-color: #0f33ff
@@ -1253,15 +1253,15 @@
   }
   
   .about--options>a:nth-child(1) {
-    background-image: url("../img/about-winners.jpg")
+    background-image: url("../img/image_1.png")
   }
   
   .about--options>a:nth-child(2) {
-    background-image: url("../img/about-philosophy.jpg")
+    background-image: url("../img/image_2.png")
   }
   
   .about--options>a:nth-child(3) {
-    background-image: url("../img/about-history.jpg")
+    background-image: url("../img/image_3.png")
   }
   
   .about--options>a:hover h3 {
